@@ -16,7 +16,9 @@ What things you need to download or install the software and how to install them
 
 Copy them to your local folder ./data
 
-Give examples
+
+![Overview](dataEx.png)
+
 ```
 
 ### Installing
