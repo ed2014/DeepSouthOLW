@@ -17,7 +17,7 @@ What things you need to download or install the software and how to install them
 Copy them to your local folder ./data
 
 
-![Overview](dataEx.png)
+![Overview](dataEx.PNG)
 
 ```
 
