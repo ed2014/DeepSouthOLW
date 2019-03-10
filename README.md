@@ -11,8 +11,8 @@ See deployment for notes on how to deploy the project on a live system.
 
 What things you need to download or install the software and how to install them
 
-* [Get APSIM-crop results] (https://drive.google.com/drive/folders/1_W-R__R45H2EtPouRM___SKmgKCQP2hL)
-* [Get Indexes to be tested]  (https://drive.google.com/file/d/1PGs2K0qvp9gAsKzUExGG47VtVqpRcslg/view?usp=sharing)
+* [Get APSIM-crop results] ()
+* [Get Indexes to be tested]  ()
 
 Copy them to your local folder ./data
 
